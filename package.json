@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.0.0-alpha.8"
+  },
+  "devDependencies": {
+    "supertest": "^6.0.1"
   }
 }
